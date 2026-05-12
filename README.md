@@ -32,7 +32,7 @@ The dataset contains information about Amazon Prime movies and TV shows includin
 
 ## Dashboard Preview
 
-![Dashboard](AmazonDashboard.jpg)
+![Dashboard](Amazon Dashboard.jpg)
 
 ---
 
